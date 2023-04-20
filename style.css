@@ -1,12 +1,12 @@
 html {
   font-family: 'Times New Roman', serif;
   color: white;
-  background-color: rgb(20, 20, 20);
+  background-color: rgb(255, 51, 204);
   margin-left: 25px;
   margin-right: 25px;
 }
 hr {
-  background-color: rgb(255, 51, 204);
+  background-color: rgb(255, 255, 255);
   border-color: transparent;
   margin-top: 1rem;
   margin-bottom: 1rem;
